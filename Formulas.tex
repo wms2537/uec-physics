@@ -2,6 +2,7 @@
 
 \documentclass{article}
 \usepackage[utf8]{inputenc}
+\usepackage{empheq} % autoloads mathtols and amsmath
 
 \title{Physics Formulas}
 \author{Wei Meng Soh \thanks{Chong Hwa Independent High School Kuala Lumpur}}
@@ -10,7 +11,7 @@
 \begin{document}
 \maketitle
 \begin{abstract}
-    This is a list of formulas for physics.
+    This is a list of formulas for physics...
 \end{abstract}
 
 \section{Thermometry}
@@ -41,5 +42,58 @@ Thermometric Property: \(\Delta \varepsilon \propto \Delta \theta\)
 \noindent Formulae:
 \[\theta = \frac{\varepsilon_\theta - \varepsilon_0}{\varepsilon_{100}-\varepsilon_0} \times 100^{\circ} \mathrm{C} \quad, \quad T=\frac{\varepsilon_T-\varepsilon_{00}}{\varepsilon_{tr}-\varepsilon_{00}} \times 273.16\mathrm{~K} \]
 
+\section{Calorimetry }
+\subsection*{Heat Capacity and specific heat capacity}
+
+\subsubsection*{Heat Capacity}
+\[C = \frac{Q}{\Delta T}\quad (\mathrm{JK^{-1}})\]
+
+\subsubsection*{Specific Heat Capacity}
+\[c = \frac{Q}{m\Delta T}\quad (\mathrm{Jkg^{-1}K^{-1}})\]
+
+\subsubsection*{Molar Heat Capacity}
+\[C_v = \frac{Q}{n\Delta T} \ (\mathrm{Jmol^{-1}K^{-1}})\quad , \quad C_p = \frac{Q}{n\Delta T} \ (\mathrm{Jmol^{-1}K^{-1}})\]
+
+\subsection*{Measurement of specific heat capacity}
+
+\subsubsection*{Method of Mixture}
+\[mc(\theta_3-\theta_2)=m_wc_w(\theta_2-\theta_1)+m_cc_c(\theta_2-\theta_1)\]
+
+\subsubsection*{Electrical Heating Method}
+\[VIt=(mc_\ell+C)\Delta \theta\]
+
+\subsubsection*{Continuous Flow Method (Callendar \& Barnes' method)}
+
+\begin{empheq}[left=\empheqlbrace]{align}
+    \ V_1I_1t = m_1c(\theta_2-\theta_1)+ht\\
+    \ V_2I_2t = m_2c(\theta_2-\theta_1)+ht
+\end{empheq}
+
+\subsection*{Specific Latent Heat}
+\[L_f = \frac{Q}{m}\quad (Jkg^{-1})\quad ,\quad L_v = \frac{Q}{m}\quad (Jkg^{-1})\]
+
+\subsubsection*{Finding specific latent heat of fusion of ice}
+\[m_1c_w(\theta_1-\theta_2)+C(\theta_1-\theta_2)=mL_f+mc_w(\theta_2-0)\]
+
+\subsubsection*{Finding specific latent heat of vaporisation of water}
+\[mL_v+mc_w(100-\theta_2)=(m_1c_w+C)(\theta_2-\theta_1)\]
+
+\subsection*{Thermal Expansion of solid}
+
+\subsubsection*{Linear Expansion}
+\[\alpha=\frac{l_2-l_1}{(\theta_2-\theta_1)l_1}\quad \Rightarrow\quad l_2=l_1[1+\alpha(\theta_2-\theta_1)]\]
+
+\subsubsection*{Area Expansion}
+\[\beta=\frac{A_2-A_1}{(\theta_2-\theta_1)A_1}\quad \Rightarrow\quad A_2=A_1[1+\beta(\theta_2-\theta_1)]\]
+\[\beta=2\alpha\]
+
+\subsubsection*{Volume Expansion}
+\[\gamma=\frac{V_2-V_1}{(\theta_2-\theta_1)V_1}\quad \Rightarrow\quad V_2=V_1[1+\gamma(\theta_2-\theta_1)]\]
+\[\gamma=3\alpha\]
+
+\subsection*{Thermal Expansion of Liquid}
+\[\gamma_\ell=\frac{V_1-V_0}{V_0\Delta \theta}\quad \Rightarrow\quad V_1=V_0(1+\gamma_\ell \Delta \theta)\]
+\[3\alpha_c=\gamma_c=\frac{V_1'-V_0}{V_0\Delta \theta}\quad \Rightarrow\quad V_1'=V_0(1+\gamma_c \Delta \theta)\]
+\[\gamma_a=\frac{V_1-V_1'}{V_0\Delta \theta}\quad \Rightarrow\quad \gamma_\ell=\gamma_a+\gamma_c\]
 
 \end{document}
