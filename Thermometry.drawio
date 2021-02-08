@@ -1,4 +1,4 @@
-<mxfile host="65bd71144e" modified="2021-02-08T11:55:40.795Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36" etag="71-0Ph_9EWKIkwNb5Ya0" version="13.10.0" type="embed">
+<mxfile host="65bd71144e" modified="2021-02-08T11:59:39.646Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36" etag="jIhUd0Gbom0B6K-PRKrn" version="13.10.0" type="embed">
     <diagram id="TbqbvbvdqebI-6xGTyaE" name="Page-1">
         <mxGraphModel dx="2547" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
             <root>
@@ -171,7 +171,7 @@
                         <mxPoint x="840" y="950" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="292" value="Liquid thermometer" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#DE7A73;fontColor=#000000;" parent="1" vertex="1">
+                <mxCell id="292" value="Liquid thermometer" style="swimlane;gradientColor=none;startSize=23;fillColor=#DE7A73;fontColor=#000000;labelBorderColor=none;strokeColor=#DE7A73;" parent="1" vertex="1">
                     <mxGeometry x="-150" y="200" width="450" height="170" as="geometry"/>
                 </mxCell>
                 <mxCell id="296" value="e.g. mercury thermometer" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="292" vertex="1">
@@ -183,7 +183,7 @@
                 <mxCell id="298" value="\[\theta = \frac{\ell_\theta - \ell_0}{\ell_{100}-\ell_0} \times 100^{\circ} \mathrm{C} \quad, \quad T=\frac{\ell_T-\ell_{00}}{\ell_{tr}-\ell_{00}} \times 273.16\mathrm{~K} \]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="292">
                     <mxGeometry x="10" y="80" width="430" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="299" value="Gas thermometer" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#DE7A73;fontColor=#000000;" vertex="1" parent="1">
+                <mxCell id="299" value="Gas thermometer" style="swimlane;gradientColor=none;startSize=23;fillColor=#DE7A73;fontColor=#000000;labelBorderColor=none;strokeColor=#DE7A73;" vertex="1" parent="1">
                     <mxGeometry x="-530" y="394" width="490" height="220" as="geometry"/>
                 </mxCell>
                 <mxCell id="300" value="Constant Volume, H&lt;sub&gt;2&lt;/sub&gt;,N&lt;sub&gt;2&lt;/sub&gt;,H&lt;span style=&quot;font-size: 11.6667px&quot;&gt;e&lt;/span&gt;&lt;br&gt;Constant Pressure, H&lt;sub&gt;2&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="299">
@@ -195,7 +195,7 @@
                 <mxCell id="302" value="\[\theta = \frac{P_\theta V_\theta - P_0V_0}{P_{100} V_{100} - P_0V_0} \times 100^{\circ} \mathrm{C} \quad, \quad T=\frac{P_T V_T}{P_{tr} V_{tr}} \times 273.16\mathrm{~K} \]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="299">
                     <mxGeometry x="10" y="110" width="470" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="304" value="Resistance thermometer" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#DE7A73;fontColor=#000000;" vertex="1" parent="1">
+                <mxCell id="304" value="Resistance thermometer" style="swimlane;gradientColor=none;startSize=23;fillColor=#DE7A73;fontColor=#000000;labelBorderColor=none;strokeColor=#DE7A73;" vertex="1" parent="1">
                     <mxGeometry x="-530" y="630" width="490" height="230" as="geometry"/>
                 </mxCell>
                 <mxCell id="305" value="Platinum Resistance Thermometer" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="304">
@@ -207,7 +207,7 @@
                 <mxCell id="307" value="\[\theta = \frac{R_\theta - R_0}{R_{100}-R_0} \times 100^{\circ} \mathrm{C} \quad, \quad T=\frac{R_T}{R_{tr}} \times 273.16\mathrm{~K} \]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="304">
                     <mxGeometry x="10" y="150" width="470" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="308" value="Thermometric thermometer" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#DE7A73;fontColor=#000000;" vertex="1" parent="1">
+                <mxCell id="308" value="Thermometric thermometer" style="swimlane;gradientColor=none;startSize=23;fillColor=#DE7A73;fontColor=#000000;labelBorderColor=none;strokeColor=#DE7A73;" vertex="1" parent="1">
                     <mxGeometry x="-140" y="880" width="450" height="170" as="geometry"/>
                 </mxCell>
                 <mxCell id="309" value="Thermocouple&lt;br&gt;Simple Thermojunction" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="308">
