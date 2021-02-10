@@ -1,0 +1,266 @@
+<mxfile host="65bd71144e" modified="2021-02-10T07:07:19.145Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36" etag="YIacIWsbw8SDfl7jwI_A" version="13.10.0" type="embed">
+    <diagram id="d-YSmEXD1V8KIvYxzbnY" name="Page-1">
+        <mxGraphModel dx="1720" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="5" target="10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="5" target="13" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="5" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Transmission of Heat" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="1082" y="810" width="150" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9" target="27" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="763.6412213740459" y="746" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="9" target="33" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="753" y="845" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9" target="36" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="767.3361344537816" y="932" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="Radiation" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="802" y="815" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Convection" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="1082" y="675" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="10" target="39" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1285.8888888888891" y="602" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="Conduction" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="1382" y="815" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="13" target="42" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1518.5827338129493" y="952" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="13" target="24" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1590" y="876.0333333333333" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="13" target="21" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1590" y="806.3666666666668" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="13" target="18" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1518.843971631206" y="736" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="How?" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="1400" y="40" width="481.5" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Transmission of heat from places of higher temperature to places of lower temperature by the interaction of atom or molecules possessing greater kinetic energy with those possessing less" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="18" vertex="1">
+                    <mxGeometry x="9" y="30" width="461" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="In gases, heat is transmitted by collision of gaseous molecules. Conduction lin liquid also follows the same process. In solid electrical conductors, free electrons present also contributes to heat conduction, thus they concucts heat well" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="18" vertex="1">
+                    <mxGeometry x="15.25" y="110" width="454.75" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Thermal Conductivity" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="1640.25" y="283" width="509.5" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Also called as coefficient of thermal consuctivity, k of a material is the rate of flow of heat through unit area under unit temparature gradient normal to the faves of a thin parallel side slab of the material, when steady state is achieved. (S.I. unit is Wm&lt;sup&gt;-1&lt;/sup&gt;K&lt;sup&gt;-1&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="21" vertex="1">
+                    <mxGeometry x="9" y="30" width="491" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Temperature Gradient" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="1730" y="430" width="390" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Temperature drop per unit length" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="24" vertex="1">
+                    <mxGeometry x="9" y="34" width="371" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;div&gt;\[\frac{d\theta}{dx}=\frac{\theta_2-\theta_1}{\ell}\quad (\theta_2&amp;gt;\theta_1)\]&lt;/div&gt;&lt;div&gt;\[\frac{Q}{t}\quad \propto \quad \frac{\theta_2-\theta_1}{\ell}\quad (\theta_2&amp;gt;\theta_1)\]&lt;/div&gt;&lt;div&gt;\[\frac{Q}{t}\quad \propto \quad A\]&lt;/div&gt;&lt;div&gt;\[\Rightarrow\quad \frac{Q}{t}=kA\;\frac{\theta_2-\theta_1}{\ell}\quad (\theta_2&amp;gt;\theta_1)\]&lt;/div&gt;&lt;div&gt;\[\frac{dQ}{dt}=kA\;\frac{d\theta}{dx}\]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="24" vertex="1">
+                    <mxGeometry x="9.5" y="80" width="370.5" height="274" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="How?" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="330" width="320" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Emittted by all objects with temperature above 0K" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="27" vertex="1">
+                    <mxGeometry x="9" y="30" width="301" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Objects of low temperature emit wave of long wavelength" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="27" vertex="1">
+                    <mxGeometry x="9" y="90" width="301" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="413" value="Objects of high temperature emit wave of short wavelength" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="27">
+                    <mxGeometry x="9" y="150" width="301" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="414" value="Normally, we refer heat radiation as infrared radiation" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="27">
+                    <mxGeometry x="9" y="210" width="301" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Perfect Black Body Radiation" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="660" width="319" height="122" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Perfect black body is an object that absorbs all radiation of all wavelengths and rediates all energy supplied to it." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="30" vertex="1">
+                    <mxGeometry x="9" y="30" width="301" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Wien's displacement law" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" parent="1" vertex="1">
+                    <mxGeometry x="170" y="830.5" width="430" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="According to the blackbody radiation curve" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="33" vertex="1">
+                    <mxGeometry x="9" y="30" width="411" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="&lt;div&gt;\[\lambda \propto \frac{1}{T}\quad (\lambda \mathrm{\ is\ peak\ wavelength})\]&lt;/div&gt;&lt;div&gt;\[\lambda T=k \quad (k\mathrm{is\ Wein's\ constant,\ }2.93\times10^{-3}mK)\]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="33" vertex="1">
+                    <mxGeometry x="9" y="90" width="411" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Stefan's law" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" parent="1" vertex="1">
+                    <mxGeometry x="170" y="1070" width="510" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="Relation of total energy emmitted by black body and its temperature" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="36" vertex="1">
+                    <mxGeometry x="9" y="30" width="491" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="&lt;div&gt;\[E \propto T^4\quad (E=\frac{Q}{At}\mathrm{,\ energy\ emitted\ per\ second\ per\ unit\ surface})\]&lt;/div&gt;&lt;div&gt;\[E=\sigma T^4 \quad (\sigma\mathrm{\ is\ Stefan's\ constant,\ }5.67\times10^{-8}Wm^{-2}K^{-4})\]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="36" vertex="1">
+                    <mxGeometry x="9" y="90" width="491" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="Applicatons" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#F0A729;strokeColor=#F0A729;" parent="1" vertex="1">
+                    <mxGeometry x="947" y="230" width="420" height="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="Heating element of electric kettle placed on bottom" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" parent="39" vertex="1">
+                    <mxGeometry x="9" y="30" width="401" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="416" value="Smoke is accumulated at top of room during a fire" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" vertex="1" parent="39">
+                    <mxGeometry x="9" y="80" width="401" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="417" value="Birds riding on thermals (stream of hot air rising in sky)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" vertex="1" parent="39">
+                    <mxGeometry x="9" y="130" width="401" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="418" value="Sea breeze and land breeze" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" vertex="1" parent="39">
+                    <mxGeometry x="9" y="180" width="401" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="419" value="Cooling in the refrigerator" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" vertex="1" parent="39">
+                    <mxGeometry x="9.5" y="230" width="401" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="420" value="Air-conditioner placed at high spots" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" vertex="1" parent="39">
+                    <mxGeometry x="9.5" y="280" width="401" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Temperature distribution along a conductor" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="1020" y="1100" width="570" height="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="Lagged Bar" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="42" vertex="1">
+                    <mxGeometry x="304" y="41" width="253" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="Linear temperature-length graph" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="43" vertex="1">
+                    <mxGeometry x="9" y="30" width="231" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="Unlagged bar" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="42" vertex="1">
+                    <mxGeometry x="17" y="40" width="253" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="Non-linear temperature-length graph" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="46" vertex="1">
+                    <mxGeometry x="9" y="30" width="231" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="Compound Bar" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="42" vertex="1">
+                    <mxGeometry x="17" y="190" width="540" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="At steady state" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="49" vertex="1">
+                    <mxGeometry x="9" y="30" width="521" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="&lt;div&gt;\[\left(\frac{Q}{t}\right)_1=\left(\frac{Q}{t}\right)_2=\left(\frac{Q}{t}\right)_3\]&lt;/div&gt;&lt;div&gt;\[k_1A\;\frac{\theta_1-\theta_2}{\ell_1}=k_2A\;\frac{\theta_2-\theta_3}{\ell_2}=k_3A\;\frac{\theta_3-\theta_4}{\ell_3}\quad (\theta_1&amp;gt;\theta_2&amp;gt;\theta_3&amp;gt;\theta_4)\]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="49" vertex="1">
+                    <mxGeometry x="9.5" y="80" width="521" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9" target="30" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="850.3587786259545" y="823" as="sourcePoint"/>
+                        <mxPoint x="773.6412213740459" y="756" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="323" value="Measurement of thermal conductivity of good conductor" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="1780" y="820" width="450" height="201" as="geometry"/>
+                </mxCell>
+                <mxCell id="324" value="Heat must flow through specimen at a measuarable rate" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="323" vertex="1">
+                    <mxGeometry x="9" y="30" width="211" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="325" value="&lt;div&gt;\[Rate\ of\ heat\ flow = mc_w(\theta_4-\theta_3)\]&lt;/div&gt;&lt;div&gt;\[k=\frac{mc_w(\theta_4-\theta_3)}{A(\theta_2-\theta_1)}\times \ell\]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="323" vertex="1">
+                    <mxGeometry x="9" y="86" width="431" height="104" as="geometry"/>
+                </mxCell>
+                <mxCell id="330" value="Temperature gradient along specimen is measuarable" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="323">
+                    <mxGeometry x="230" y="30" width="210" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="326" value="Thermal Resistance" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="1840" y="1090" width="380" height="490" as="geometry"/>
+                </mxCell>
+                <mxCell id="383" value="Thermal conduction model" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" vertex="1" parent="326">
+                    <mxGeometry x="10" y="90" width="180" height="258" as="geometry"/>
+                </mxCell>
+                <mxCell id="388" value="Temperature" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="383">
+                    <mxGeometry x="10" y="28" width="160" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="390" value="Heat&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Temperature%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bshadow%3D0%3BlabelBackgroundColor%3Dnone%3BstrokeColor%3Dnone%3BstrokeWidth%3D3%3BfillColor%3D%2361c6ce%3BfontFamily%3DHelvetica%3BfontSize%3D14%3Balign%3Dcenter%3Bspacing%3D5%3BfontStyle%3D0%3BarcSize%3D7%3BperimeterSpacing%3D2%3BfontColor%3D%23000000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222290%22%20y%3D%22780%22%20width%3D%22160%22%20height%3D%2222%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Temperature%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bshadow%3D0%3BlabelBackgroundColor%3Dnone%3BstrokeColor%3Dnone%3BstrokeWidth%3D3%3BfillColor%3D%2361c6ce%3BfontFamily%3DHelvetica%3BfontSize%3D14%3Balign%3Dcenter%3Bspacing%3D5%3BfontStyle%3D0%3BarcSize%3D7%3BperimeterSpacing%3D2%3BfontColor%3D%23000000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222290%22%20y%3D%22780%22%20width%3D%22160%22%20height%3D%2222%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="383">
+                    <mxGeometry x="10" y="58" width="160" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="392" value="Thermal Resistance" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="383">
+                    <mxGeometry x="10" y="88" width="160" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="393" value="Heat Capacity" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="383">
+                    <mxGeometry x="10" y="118" width="160" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="394" value="Constant heat source" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="383">
+                    <mxGeometry x="10" y="148" width="160" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="395" value="Constant power source" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="383">
+                    <mxGeometry x="10" y="178" width="160" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="400" value="\[R_\theta=\frac{\ell}{kA}\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="383">
+                    <mxGeometry x="10" y="208" width="160" height="42" as="geometry"/>
+                </mxCell>
+                <mxCell id="387" value="Electrical conduction model" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" vertex="1" parent="326">
+                    <mxGeometry x="190" y="90" width="180" height="258" as="geometry"/>
+                </mxCell>
+                <mxCell id="389" value="Voltage" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="387">
+                    <mxGeometry x="10" y="28" width="160" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="391" value="Charge" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="387">
+                    <mxGeometry x="10" y="58" width="160" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="396" value="Electrical Resistance" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="387">
+                    <mxGeometry x="10" y="88" width="160" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="397" value="Capacitance" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="387">
+                    <mxGeometry x="10" y="118" width="160" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="398" value="Constant voltage source" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="387">
+                    <mxGeometry x="10" y="148" width="160" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="399" value="Constant power source" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="387">
+                    <mxGeometry x="10" y="178" width="160" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="401" value="\[R=\frac{\rho \ell}{A}=\frac{\ell}{\sigma A}\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="387">
+                    <mxGeometry x="10" y="208" width="160" height="42" as="geometry"/>
+                </mxCell>
+                <mxCell id="384" value="&lt;div&gt;When in series,&amp;nbsp;&lt;/div&gt;&lt;div&gt;\[\mathrm{Total\ thermal\ resistance}=R_{\theta_1}+R_{\theta_2}\]&lt;/div&gt;&lt;div&gt;\[\frac{Q}{t}=\frac{\mathrm{temperature\ difference}}{\mathrm{total\ thermal\ resistance}}\]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="326">
+                    <mxGeometry x="10" y="358" width="360" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="385" value="\[\frac{Q}{t}=\frac{\Delta \theta}{R_\theta}\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="326">
+                    <mxGeometry x="10" y="30" width="360" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="411" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="13" target="326">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1425" y="980" as="targetPoint"/>
+                        <mxPoint x="1456.248" y="887" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="412" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="13" target="323">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1920" y="942.5" as="targetPoint"/>
+                        <mxPoint x="1544" y="871" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
