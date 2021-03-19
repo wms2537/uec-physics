@@ -9,6 +9,16 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
@@ -25,8 +35,6 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
@@ -74,8 +82,6 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map

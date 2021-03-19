@@ -1,6 +1,13 @@
 % !TEX root = Formulas.tex  
 
 \documentclass{article}
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+ }
 \usepackage[utf8]{inputenc}
 \usepackage{empheq} % autoloads mathtols and amsmath
 
@@ -129,5 +136,63 @@ When in series,
 \subsubsection*{Stefan's law}
 \[E \propto T^4\quad (E=\frac{Q}{At}\mathrm{,\ energy\ emitted\ per\ second\ per\ unit\ surface})\]
 \[E=\sigma T^4 \quad (\sigma\mathrm{\ is\ Stefan's\ constant,\ }5.67\times10^{-8}Wm^{-2}K^{-4})\]
+
+
+\section{Optics}
+\subsection*{Reflection}
+
+\[\frac{1}{u} + \frac{1}{v} = \frac{1}{f}\quad(\mathrm{where}\ u=\mathrm{object\ distance}, v=\mathrm{image\ distance}, f=\mathrm{focal\ length} )\]
+\[\mathrm{Linear\ magnification:}\quad m=\frac{v}{u}=\frac{l}{h}=\frac{v}{f}-1\]
+\[\mathrm{Angular\ magnification:}\quad m=\frac{\beta}{\alpha}=\frac{v}{f}-1\]
+No. of images:
+\[\quad n=\frac{360^\circ}{\theta}-1\quad(\mathrm{if\ n\ is\ even\ or\ n\ is\ odd\ when\ object\ lies\ on\ angle\ bisector})\]
+\[\quad n=\frac{360^\circ}{\theta}\quad(\mathrm{if\ n\ is\ odd\ when\ object\ does\ not\ lie\ on\ angle\ bisector})\]
+
+\subsection*{Refraction}
+
+Snell's law: \(n_1\sin i_1=n_2\sin i_2\)
+\[if\ i=c\ and\ r=90^\circ,\ \frac{n}{n_a}=\frac{1}{\sin c}\]
+\[\frac{n_2}{n_1}=\frac{\sin i}{\sin r}=\frac{v_1}{v_2}=\frac{\lambda_1}{\lambda_2}=\frac{t}{t'}\quad(\mathrm{light\ passes\ from\ 1\ to\ 2})\]
+
+Difference between real and apparent depth:
+\[d=t(1-\frac{1}{n})\]
+
+Refraction at prism:
+\[\mathrm{Angle\ of\ deviation:\ }d=i_1+i_2-A\ mathrm{where}\ A=r_1+r_2\]
+\[\mathrm{Minimum\ Angle\ of\ deviation:\ }d=2i-A,\ (i_1=i_2=i,\ r_1=r_2=r,\ A=2r)\ or\ n=\frac{\sin\frac{A+D}{2}}{\sin\frac{A}{2}}\]
+\[\mathrm{Maximum\ Angle\ of\ deviation:\ }i_1=90^\circ\ or\ i_2=90^\circ\]
+
+Power of a lens:
+\[P=\frac{1}{f},\ f\ \mathrm{is\ in\ metres}\]
+
+Lensmaker's equation:
+\[\frac{1}{f}=(\frac{n_2}{n_1}-1)(\frac{1}{r_1}+\frac{1}{r_2}),\ (r\ \mathrm{is\ +\ when\ convex\ towards\ optically\ less\ dense\ medium})\]
+
+Combination of thin lenses:
+\[\frac{1}{f}=\frac{1}{f_1}+\frac{1}{f_2}\]
+
+Conjugate points:
+\[xx'=f^2\]
+
+Convex lens with fixed object and image:
+\[f=\frac{s^2-l^2}{4d},\ (\mathrm{where}\ d=u+v\ \mathrm{and}\ l=\mathrm{distance\ between\ two\ convex\ lens)}\]
+\[u+v>4f\ \Rightarrow\mathrm{2\ real\ images}\]
+\[u+v=4f\ \Rightarrow\mathrm{1\ real\ image}\]
+\[u+v<4f\ \Rightarrow\mathrm{no\ real\ images}\]
+
+Magnifying glass: convex lens, \(u<f\), erect, magnified and virtual image
+\[\mathrm{Normal\ adjustment:}\ v=D,\ M=\frac{\beta}{\alpha}=\frac{D}{f}-1\]
+\[\mathrm{Abnormal\ adjustment:}\ v=\infty,\ M=\frac{D}{f}\ (D=-25cm)\]
+
+Compound microscope: convex lens, \(f_o<f_e\), first image is magnified inverted real, second is magnified inverted virtual.
+\[\mathrm{Normal\ adjustment:}\ v_e=D,\ M=\frac{\beta}{\alpha}=m_o\times m_e=(\frac{v_o}{f_o}-1)(\frac{-D}{f_e}-1)\]
+\[\mathrm{Abnormal\ adjustment:}\ v_e=\infty,\ M=\frac{\beta}{\alpha}=m_o\times m_e=(\frac{v_o}{f_o}-1)(\frac{D}{f_e})\]
+
+Astromomical telescope (Keplerian telescope): convex lenses with
+\[f_o<f_e,\ f_o+f_e=d,\ u_o=\infty,\ v_o=f_o,\ u_e=f_e\] first image is diminished, inverted real, second is magnified inverted
+\[\mathrm{Normal\ adjustment:}\ v_e=\infty,\ M=\frac{\beta}{\alpha}=m_o\times m_e=\frac{f_o}{f_e}\]
+\[\mathrm{Abnormal\ adjustment:}\ v_e=D,\ M=\frac{\beta}{\alpha}=m_o\times m_e=(\frac{D+1}{D})(\frac{f_o}{f_e})\]
+
+
 
 \end{document}
