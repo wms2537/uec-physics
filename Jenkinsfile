@@ -2,9 +2,7 @@ pipeline {
   triggers {
     pollSCM('') // Enabling being build on Push
   }
-  agent { dockerfile {
-      args '-v --shm-size=1g'
-  } }
+  agent { dockerfile true }
   stages {
     stage('Render PDFs') {
       steps {
