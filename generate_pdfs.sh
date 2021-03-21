@@ -1,4 +1,5 @@
 #!/bin/bash
+git checkout main
 docker build -t my-image .
 pwd
 ls
