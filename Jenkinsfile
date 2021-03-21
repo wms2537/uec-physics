@@ -7,8 +7,7 @@ pipeline {
     stage('Render PDFs') {
       steps {
         script {
-          drawioRenderer = docker.build("my-image").withRun('-p 5000:5000', '-v \$(pwd)/out:/work/out --shm-size=1g')
-          drawioRenderer.inside {
+          docker.build("my-image").inside('-p 5000:5000', '-v \$(pwd)/out:/work/out --shm-size=1g') {
             sh 'sh ./generate_pdfs.sh'
           }
         }
