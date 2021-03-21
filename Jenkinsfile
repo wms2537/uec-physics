@@ -6,13 +6,7 @@ pipeline {
   stages {
     stage('Render PDFs') {
       steps {
-        // script {
-        //   docker.build("my-image").withRun('-p 5000:5000', '--shm-size=1g')
-        // }
-        sh 'docker ps'
         sh 'sh ./generate_pdfs.sh'
-        sh 'docker kill drawio'
-        sh 'docker system prune -f'
       }
     }
     stage('Push PDFs') {
