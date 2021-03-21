@@ -9,7 +9,7 @@ pipeline {
         // script {
         //   docker.build("my-image").withRun('-p 5000:5000', '--shm-size=1g')
         // }
-        sh 'docker build -t my-image'
+        sh 'docker build -t my-image .'
         sh 'docker run -p 5000:5000 --shm-size=1g my-image'
         sh 'sh ./generate_pdfs.sh'
       }
