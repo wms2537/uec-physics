@@ -11,6 +11,7 @@ pipeline {
         // }
         sh 'docker build -t my-image .'
         sh 'docker run -d -p 5000:5000 --name drawio --shm-size=1g my-image'
+        sh 'docker ps'
         sh 'sh ./generate_pdfs.sh'
         sh 'docker kill drawio'
         sh 'docker system prune -f'
