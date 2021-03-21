@@ -2,7 +2,7 @@
 docker build -t my-image .
 docker run -d -p 5000:5000 --name drawio --shm-size=1g my-image
 
-sleep 10
+sleep 30
 
 for filename in ./diagrams/*.drawio; do
     echo "### rendering $filename ..."
