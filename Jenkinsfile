@@ -1,6 +1,6 @@
 pipeline {
   agent { dockerfile {
-      args '-v ./out:/work/out --shm-size=1g'
+      args '-v --shm-size=1g'
   } }
   stages {
     stage('Render PDFs') {
