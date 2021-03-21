@@ -7,7 +7,7 @@ pipeline {
     stage('Render PDFs') {
       steps {
         script {
-          drawioRenderer = docker.build("my-image:${env.BUILD_ID}", "-v $(pwd)/out:/work/out --shm-size=1g")
+          drawioRenderer = docker.build("my-image:${env.BUILD_ID}", "-v '$(pwd)/out':/work/out --shm-size=1g")
           drawioRenderer.inside {
             sh 'sh ./generate_pdfs.sh'
           }
