@@ -7,10 +7,9 @@ pipeline {
     stage('Render PDFs') {
       steps {
         script {
-          docker.build("my-image").inside('-p 5000:5000', '-v \$(pwd)/out:/work/out --shm-size=1g') {
-            sh 'sh ./generate_pdfs.sh'
-          }
+          myimage = docker.build("my-image").withRun('-p 5000:5000', '--shm-size=1g')
         }
+        sh 'sh ./generate_pdfs.sh'
       }
     }
     stage('Push PDFs') {
