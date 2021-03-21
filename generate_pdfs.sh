@@ -8,7 +8,7 @@ sleep 5
 docker exec drawio sh ./generate_pdf.sh
 docker logs drawio
 ls
-ls $(pwd)/out
+ls /var/jenkins_home/workspace/uec-physics_main/out
 
 docker kill drawio
 docker rm drawio
