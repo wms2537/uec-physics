@@ -12,6 +12,8 @@ pipeline {
     stage('Push PDFs') {
       steps { 
           withCredentials([string(credentialsId: 'GITHUB_PAGES_TOKEN', variable: 'GH_TOKEN')]) {
+            sh 'ls'
+            sh 'ls ./out'
             sh 'git add --all'
             sh "git -c user.name='wms2537' -c user.email='swmeng@yes.my' status"
             sh "git -c user.name='wms2537' -c user.email='swmeng@yes.my' commit -m 'update pdfs'" 
