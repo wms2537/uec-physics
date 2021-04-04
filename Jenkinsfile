@@ -6,7 +6,7 @@ pipeline {
   stages {
     stage('Render PDFs') {
       steps {
-        sh 'mkdir out'
+        sh 'rm -rf ./out && mkdir out'
         sh 'sh ./generate_pdfs.sh'
       }
     }
