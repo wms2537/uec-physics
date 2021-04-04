@@ -75,7 +75,7 @@
                 <mxCell id="40" value="\[PV=constant\] \[\Rightarrow P_1V_1=p_2V_2\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="37" vertex="1">
                     <mxGeometry x="9" y="90" width="301" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="41">
+                <mxCell id="145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="41" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="2270" y="1035" as="targetPoint"/>
                     </mxGeometry>
@@ -89,7 +89,7 @@
                 <mxCell id="43" value="&lt;div&gt;\[\frac{PV}{T}=nR\quad(R=\mathrm{molar\ gas\ constant})\]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="41" vertex="1">
                     <mxGeometry x="9" y="90" width="331" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="100" value="&lt;div&gt;\[\Rightarrow PV=nRT=mR'T\quad(R'=\frac{R}{M})\]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="41">
+                <mxCell id="100" value="&lt;div&gt;\[\Rightarrow PV=nRT=mR'T\quad(R'=\frac{R}{M})\]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="41" vertex="1">
                     <mxGeometry x="9" y="150" width="331" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="44" value="Connected Gas Container" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
@@ -107,19 +107,19 @@
                 <mxCell id="57" value="Gases consist of discrete particles called molecules. For a given gas all the molecules are identical." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="56" vertex="1">
                     <mxGeometry x="9" y="30" width="431" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="117" value="Except during collision, the attraction between the molecules is negligible." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="56">
+                <mxCell id="117" value="Except during collision, the attraction between the molecules is negligible." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="56" vertex="1">
                     <mxGeometry x="9" y="90" width="431" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="118" value="The volume occupied by the gas molecules is negligible compare with the volume occupied by the gas.(i.e. the volume of the container)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="56">
+                <mxCell id="118" value="The volume occupied by the gas molecules is negligible comparing with the volume occupied by the gas.(i.e. the volume of the container)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="56" vertex="1">
                     <mxGeometry x="9" y="150" width="431" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="119" value="Molecules are in continual random motion. Except during collision, molecules are moving along a straight line with constant speed. Collisions with the walls of the container give rise to pressure." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="56">
+                <mxCell id="119" value="Molecules are in continual random motion. Except during collision, molecules are moving along a straight line with constant speed. Collisions with the walls of the container give rise to pressure." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="56" vertex="1">
                     <mxGeometry x="9" y="220" width="431" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="121" value="Molecules are like perfectly elastic spheres and thus the collisions between molecules are perfectly elastic, i.e. kinetic energy and momentum is conserved." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="56">
+                <mxCell id="121" value="Molecules are like perfectly elastic spheres and thus the collisions between molecules are perfectly elastic, i.e. kinetic energy and momentum is conserved." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="56" vertex="1">
                     <mxGeometry x="9" y="290" width="431" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="120" value="The duration of a collision is negligible compared with the time elapsing between collisions." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="56">
+                <mxCell id="120" value="The duration of a collision is negligible compared with the time elapsing between collisions." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="56" vertex="1">
                     <mxGeometry x="9" y="360" width="431" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="59" value="Pressure and R.M.S. speed" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" parent="1" vertex="1">
@@ -140,22 +140,22 @@
                 <mxCell id="66" value="\[\frac{1}{2}m\overline{c^2}=\frac{3}{2}\frac{R}{N_A}T=\frac{3}{2}kT\quad(k\ \mathrm{is\ Boltzmann's\ constant})\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="65" vertex="1">
                     <mxGeometry x="9" y="30" width="471" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="122" value="Total Translational Kinetic Energy" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" vertex="1" parent="62">
+                <mxCell id="122" value="Total Translational Kinetic Energy" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" parent="62" vertex="1">
                     <mxGeometry x="9.5" y="130" width="490.5" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="123" value="\[\frac{1}{2}Nm\overline{c^2}=\frac{3}{2}NkT=\frac{3}{2}nRT\quad(k\ \mathrm{is\ Boltzmann's\ constant})\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="122">
+                <mxCell id="123" value="\[\frac{1}{2}Nm\overline{c^2}=\frac{3}{2}NkT=\frac{3}{2}nRT\quad(k\ \mathrm{is\ Boltzmann's\ constant})\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="122" vertex="1">
                     <mxGeometry x="9" y="30" width="471" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="77" value="Ideal Gas" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#F0A729;strokeColor=#F0A729;" parent="1" vertex="1">
                     <mxGeometry x="1210" y="500" width="420" height="220" as="geometry"/>
                 </mxCell>
-                <mxCell id="78" value="A theotetical concept of a gas which would obey the gas laws exactly." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" parent="77" vertex="1">
+                <mxCell id="78" value="A theoretical concept of a gas which would obey the gas laws exactly." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" parent="77" vertex="1">
                     <mxGeometry x="9" y="30" width="401" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="79" value="&lt;div&gt;Consists of perfectly elastic molecules&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#F5AF58;" parent="77" vertex="1">
                     <mxGeometry x="9" y="100" width="401" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="104" value="&lt;div&gt;Volume occupied by actual molecules and force of attraction between them are negligible.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#F5AF58;" vertex="1" parent="77">
+                <mxCell id="104" value="&lt;div&gt;Volume occupied by actual molecules and force of attraction between them are negligible.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#F5AF58;" parent="77" vertex="1">
                     <mxGeometry x="9" y="150" width="401" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="81" value="Dalton's Law of Partial Pressure" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
@@ -191,103 +191,103 @@
                 <mxCell id="89" value="&lt;div&gt;i.e. A flask containing air and some water at \(20^\circ C\), the water vapour above water is saturated vapour at&amp;nbsp;&lt;/div&gt;\(20^\circ C\)." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#F5AF58;" parent="87" vertex="1">
                     <mxGeometry x="9" y="90" width="391" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="106" value="The s.v.p. of a liquid is independent to its volume" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" vertex="1" parent="93">
+                <mxCell id="106" value="The s.v.p. of a liquid is independent to its volume" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" parent="93" vertex="1">
                     <mxGeometry x="10" y="370" width="410" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="115" value="s.v.p. \(\propto\) tenperature" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" vertex="1" parent="93">
+                <mxCell id="115" value="s.v.p. \(\propto\) tenperature" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" parent="93" vertex="1">
                     <mxGeometry x="10" y="420" width="410" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="116" value="Saturated vapour does not obey gas laws, its volume is constant under constant temperature" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" vertex="1" parent="93">
+                <mxCell id="116" value="Saturated vapour does not obey gas laws, its volume is constant under constant temperature" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" parent="93" vertex="1">
                     <mxGeometry x="9.5" y="470" width="410" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="94" value="Charles' Law" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" vertex="1" parent="1">
+                <mxCell id="94" value="Charles' Law" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="1860" y="470" width="319" height="210" as="geometry"/>
                 </mxCell>
-                <mxCell id="95" value="\[V\propto T\quad(m,\ P\ \mathrm{is\ constant})\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="94">
+                <mxCell id="95" value="\[V\propto T\quad(m,\ P\ \mathrm{is\ constant})\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="94" vertex="1">
                     <mxGeometry x="9" y="30" width="301" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="96" value="\[\frac{V}{T}=constant\] \[\Rightarrow \frac{V_1}{T_1}=\frac{V_2}{T_2}\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="94">
+                <mxCell id="96" value="\[\frac{V}{T}=constant\] \[\Rightarrow \frac{V_1}{T_1}=\frac{V_2}{T_2}\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="94" vertex="1">
                     <mxGeometry x="9" y="90" width="301" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="97" value="Pressure Law" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" vertex="1" parent="1">
+                <mxCell id="97" value="Pressure Law" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="1920" y="700" width="319" height="210" as="geometry"/>
                 </mxCell>
-                <mxCell id="98" value="\[P\propto T\quad(m,\ P\ \mathrm{is\ constant})\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="97">
+                <mxCell id="98" value="\[P\propto T\quad(m,\ P\ \mathrm{is\ constant})\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="97" vertex="1">
                     <mxGeometry x="9" y="30" width="301" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="99" value="\[\frac{P}{T}=constant\] \[\Rightarrow \frac{P_1}{T_1}=\frac{P_2}{T_2}\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="97">
+                <mxCell id="99" value="\[\frac{P}{T}=constant\] \[\Rightarrow \frac{P_1}{T_1}=\frac{P_2}{T_2}\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="97" vertex="1">
                     <mxGeometry x="9" y="90" width="301" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="101" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="28" target="97">
+                <mxCell id="101" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="28" target="97" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="1950.0000000000005" y="1015" as="targetPoint"/>
                         <mxPoint x="1574" y="1048.2008830022078" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="102" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="28" target="94">
+                <mxCell id="102" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="28" target="94" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="1820" y="640" as="targetPoint"/>
                         <mxPoint x="1584" y="1058.2008830022078" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="124" value="Degree of Freedom, f" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" vertex="1" parent="1">
+                <mxCell id="124" value="Degree of Freedom, f" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" parent="1" vertex="1">
                     <mxGeometry x="110" y="990" width="420" height="330" as="geometry"/>
                 </mxCell>
-                <mxCell id="125" value="Monoatomic molecules" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" vertex="1" parent="124">
+                <mxCell id="125" value="Monoatomic molecules" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" parent="124" vertex="1">
                     <mxGeometry x="10" y="30" width="400" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="126" value="3 translational, 0 rotational \(\Rightarrow\) total 3" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="125">
+                <mxCell id="126" value="3 translational, 0 rotational \(\Rightarrow\) total 3" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="125" vertex="1">
                     <mxGeometry x="9" y="30" width="381" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="129" value="Diatomic molecules" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" vertex="1" parent="124">
+                <mxCell id="129" value="Diatomic molecules" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" parent="124" vertex="1">
                     <mxGeometry x="9.5" y="130" width="400" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="130" value="3 translational, 2 rotational \(\Rightarrow\) total 5" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="129">
+                <mxCell id="130" value="3 translational, 2 rotational \(\Rightarrow\) total 5" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="129" vertex="1">
                     <mxGeometry x="9" y="30" width="381" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="131" value="Polyatomic molecules" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" vertex="1" parent="124">
+                <mxCell id="131" value="Polyatomic molecules" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" parent="124" vertex="1">
                     <mxGeometry x="10" y="230" width="400" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="132" value="3 translational, 3 rotational \(\Rightarrow\) total 6" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="131">
+                <mxCell id="132" value="3 translational, 3 rotational \(\Rightarrow\) total 6" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="131" vertex="1">
                     <mxGeometry x="9" y="30" width="381" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="133" value="Maxwell's Law of Equipartition of Energy" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" vertex="1" parent="1">
+                <mxCell id="133" value="Maxwell's Law of Equipartition of Energy" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" parent="1" vertex="1">
                     <mxGeometry x="120" y="1350" width="712" height="210" as="geometry"/>
                 </mxCell>
-                <mxCell id="134" value="\[\mathrm{For\ monoatomic\ gas,\ }f=3,\ \mathrm{average\ kinetic\ energy\ of\ one\ molecule}=\frac{3}{2}kT\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="133">
+                <mxCell id="134" value="\[\mathrm{For\ monoatomic\ gas,\ }f=3,\ \mathrm{average\ kinetic\ energy\ of\ one\ molecule}=\frac{3}{2}kT\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="133" vertex="1">
                     <mxGeometry x="9" y="30" width="691" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="136" value="\[\mathrm{For\ diatomic\ gas,\ }f=5,\ \mathrm{average\ kinetic\ energy\ of\ one\ molecule}=\frac{5}{2}kT\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="133">
+                <mxCell id="136" value="\[\mathrm{For\ diatomic\ gas,\ }f=5,\ \mathrm{average\ kinetic\ energy\ of\ one\ molecule}=\frac{5}{2}kT\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="133" vertex="1">
                     <mxGeometry x="9" y="90" width="691" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="137" value="\[\mathrm{For\ polyatomic\ gas,\ }f=6,\ \mathrm{average\ kinetic\ energy\ of\ one\ molecule}=\frac{6}{2}kT=3kT\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="133">
+                <mxCell id="137" value="\[\mathrm{For\ polyatomic\ gas,\ }f=6,\ \mathrm{average\ kinetic\ energy\ of\ one\ molecule}=\frac{6}{2}kT=3kT\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="133" vertex="1">
                     <mxGeometry x="9.5" y="150" width="690.5" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="138" value="Internal Energy of a Gas, U" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" vertex="1" parent="1">
+                <mxCell id="138" value="Internal Energy of a Gas, U" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" parent="1" vertex="1">
                     <mxGeometry x="940" y="1211" width="590" height="240" as="geometry"/>
                 </mxCell>
-                <mxCell id="139" value="Internal energy of a system refers to total kinetic and potential energy of molecules of the system." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="138">
+                <mxCell id="139" value="Internal energy of a system refers to total kinetic and potential energy of molecules of the system." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="138" vertex="1">
                     <mxGeometry x="9" y="30" width="571" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="140" value="For ideal gas, attraction between molecules is negligible, internal energy formed by kinetic energy only." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="138">
+                <mxCell id="140" value="For ideal gas, attraction between molecules is negligible, internal energy formed by kinetic energy only." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="138" vertex="1">
                     <mxGeometry x="9" y="90" width="571" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="141" value="\[U\propto T\] \[U = N\times\mathrm{average\ E_k\ of\ one\ molecule}=\frac{f}{2}kT=\frac{f}{2}nRT\quad(Nk=nR)\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="138">
+                <mxCell id="141" value="\[U\propto T\] \[U = N\times\mathrm{average\ E_k\ of\ one\ molecule}=\frac{f}{2}kT=\frac{f}{2}nRT\quad(Nk=nR)\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="138" vertex="1">
                     <mxGeometry x="9.5" y="150" width="570.5" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="142" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="10" target="124">
+                <mxCell id="142" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="10" target="124" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="560" y="844.9999999999998" as="targetPoint"/>
                         <mxPoint x="840" y="1039" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="143" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="10" target="133">
+                <mxCell id="143" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="10" target="133" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="660" y="1220" as="targetPoint"/>
                         <mxPoint x="850" y="1049" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="144" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="10" target="138">
+                <mxCell id="144" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="10" target="138" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="580" y="864.9999999999998" as="targetPoint"/>
                         <mxPoint x="860" y="1059" as="sourcePoint"/>
