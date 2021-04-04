@@ -163,7 +163,7 @@
                 <mxCell id="52" value="\[VIt=(mc_\ell+C)\Delta \theta\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="50" vertex="1">
                     <mxGeometry x="9" y="90" width="241" height="44" as="geometry"/>
                 </mxCell>
-                <mxCell id="53" value="Continuous flow methof (Callendar &amp; Barnes' method)" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="81" vertex="1">
+                <mxCell id="53" value="Continuous flow method (Callendar &amp; Barnes' method)" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="81" vertex="1">
                     <mxGeometry x="300" y="190" width="350" height="210" as="geometry"/>
                 </mxCell>
                 <mxCell id="54" value="Require two sets of reading with same temperature diffrence to compute heat loss&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="53" vertex="1">
