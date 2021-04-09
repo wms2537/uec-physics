@@ -10,6 +10,10 @@
  }
 \usepackage[utf8]{inputenc}
 \usepackage{empheq} % autoloads mathtols and amsmath
+\usepackage{pgfplots}
+\pgfplotsset{width=10cm,compat=1.9}
+\usepgfplotslibrary{external}
+\tikzexternalize
 
 \title{Physics Formulas}
 \author{Wei Meng Soh \thanks{Chong Hwa Independent High School Kuala Lumpur}}
@@ -240,5 +244,49 @@ Average translational kientic energy:
 \subsubsection*{Internal Energy of a Gas, \(U\)}
 \[U\propto T\]
 \[U = N\times\mathrm{average\ E_k\ of\ one\ molecule}=\frac{f}{2}kT=\frac{f}{2}nRT\quad(Nk=nR)\]
+
+\section{Laws of Thermodynamics}
+\subsection*{First Law of Thermodynamics}
+
+\[\Delta U=Q+W\quad(\Delta U=\mathrm{change\ in\ internal\ energy},\ Q=\mathrm{heat\ supplied\ to\ system},\ W=\mathrm{work\ done\ on\ gas})\]
+\subsubsection*{Work done by gas}
+\[W=\int_{V_1}^{V_2}-PdV\]
+
+\subsubsection*{Molar Heat Capacity of Gas}
+During constant volume:
+\[\Delta U=Q_v=nC_{v,m}\Delta T\]
+During constant pressure:
+\[\Delta U=Q_p+W=nC_{p,m}\Delta T\]
+Relationship:
+\[Q_p>Q_v\]
+\[C_p-C_v=R\]
+\[\gamma=\frac{C_p}{C_v}=1+\frac{2}{f}\]
+
+\subsubsection*{Isometric (Isochoric) Process}
+\[\Delta V=0 \Rightarrow W=0\]
+\[\Delta U=Q=nC_{v,m}\Delta T\]
+\[\frac{P_1}{P_2}=\frac{T_1}{T_2}\]
+
+\subsubsection*{Isobaric Process}
+\[\Delta P=0 \Rightarrow W=-P(V_2-V_1)=-nR\Delta T\]
+\[\Delta U=Q+W\Rightarrow nC_{v,m}\Delta T=nC_{p,m}\Delta T+(-P\Delta V)\]
+\[\frac{V_1}{V_2}=\frac{T_1}{T_2}\]
+
+\subsubsection*{Isothermal Process}
+\[\Delta T=0 \Rightarrow \Delta U=0 \Rightarrow Q=-W\]
+\[P_1V_1=P_2V_2\]
+\[W=\int_{V_1}^{V_2}-PdV=-\int_{V_1}^{V_2}\frac{nRT}{V}dV=-nRT\ln\frac{V_2}{V_1}=-PV\ln\frac{V_2}{V_1}\]
+
+\subsubsection*{Adiabatic Process}
+\[\Delta Q=0 \Rightarrow \Delta U=W\]
+\[TV^{\gamma -1}=constant \Rightarrow PV^\gamma=constant\]
+\[W=\int_{V_1}^{V_2}-PdV=-PV^\gamma\int_{V_1}^{V_2}V^{-\gamma}dV=-\frac{P_2V_2-P_1V_1}{1-\gamma}\]
+
+\subsubsection*{Isothermal vs Adiabatic}
+Isothermal:
+\[\frac{dP}{dV}=-\frac{P}{V}\]
+Adiabatic:
+\[\frac{dP}{dV}=-\gamma\frac{P}{V}\]
+\[\left|{\frac{dP}{dV}}\right|_{adia}>\left|{\frac{dP}{dV}}\right|_{iso}\]
 
 \end{document}

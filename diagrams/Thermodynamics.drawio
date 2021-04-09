@@ -1,0 +1,210 @@
+<mxfile>
+    <diagram id="y0169RmewVjI8FdbrE21" name="Page-1">
+        <mxGraphModel dx="3440" dy="2306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="6" target="21" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="6" target="28" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="6" target="10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Thermodynamics" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="1082" y="860" width="150" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="10" target="56" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="763.6412213740459" y="796" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="10" target="105" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="600" y="925" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="10" target="109" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="620" y="1105" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="Processes" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="802" y="865" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Second Law of Thermodynamics" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="1082" y="725" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="21" target="93" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1028.1111111111113" y="652" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="First Law of Thermodynamics" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="1382" y="865" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="28" target="81" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1518.5827338129493" y="1002" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="28" target="41" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1590" y="856.3666666666668" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="36" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="28" target="37" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1518.843971631206" y="786" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="41" value="Work Done By Gas" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="1710" y="790" width="220" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="\[W=\int_{V_1}^{V_2}-PdV\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="41" vertex="1">
+                    <mxGeometry x="9" y="30" width="201" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="Isometric (Isochoric) Process" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" parent="1" vertex="1">
+                    <mxGeometry x="329" y="200" width="319" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="\[\Delta V=0 \Rightarrow W=0\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="56" vertex="1">
+                    <mxGeometry x="9" y="30" width="301" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="\[\Delta U=Q=nC_{v,m}\Delta T\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="56" vertex="1">
+                    <mxGeometry x="9" y="88" width="301" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="100" value="\[\frac{P_1}{P_2}=\frac{T_1}{T_2}\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="56">
+                    <mxGeometry x="9" y="147" width="301" height="53" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="Molar Heat Capacity of Gas" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="1590" y="920" width="639" height="390" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="Constant Volume" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="81" vertex="1">
+                    <mxGeometry x="9" y="35" width="301" height="175" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="\(C_{v, m}\): Molar heat capacity at constant volume, i.e. heat required to warm 1 mol of gas through 1K at constant volume" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="47" vertex="1">
+                    <mxGeometry x="9" y="30" width="281" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="\[\Delta U=Q_v=nC_{v,m}\Delta T\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="47" vertex="1">
+                    <mxGeometry x="9" y="115" width="281" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" value="Constant Pressure" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" vertex="1" parent="81">
+                    <mxGeometry x="324.5" y="35" width="301" height="175" as="geometry"/>
+                </mxCell>
+                <mxCell id="97" value="\(C_{p, m}\): Molar heat capacity at constant pressure, i.e. heat required to warm 1 mol of gas through 1K at constant pressure" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="96">
+                    <mxGeometry x="9" y="30" width="281" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="98" value="\[\Delta U=Q_p+W=nC_{p,m}\Delta T\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="96">
+                    <mxGeometry x="9" y="115" width="281" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" value="\[Q_p&amp;gt;Q_v\] \[C_p-C_v=R\] \[\gamma=\frac{C_p}{C_v}=1+\frac{2}{f}\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="81">
+                    <mxGeometry x="9" y="220" width="621" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="10" target="101" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="850.3587786259545" y="873" as="sourcePoint"/>
+                        <mxPoint x="559" y="763" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="93" value="Kelvin-Plank Statement" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#F0A729;strokeColor=#F0A729;" parent="1" vertex="1">
+                    <mxGeometry x="942" y="530" width="430" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="125" value="&lt;span class=&quot;ILfuVd&quot;&gt;It is impossible for any device that operates in a cycle to receive heat from a single reservoir and produce a net amount of work&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" vertex="1" parent="93">
+                    <mxGeometry x="10" y="30" width="410" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="101" value="Isobaric Process" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" vertex="1" parent="1">
+                    <mxGeometry x="133.5" y="450" width="479" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" value="\[\Delta P=0 \Rightarrow W=-P(V_2-V_1)=-nR\Delta T\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="101">
+                    <mxGeometry x="9" y="30" width="461" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="\[\Delta U=Q+W\Rightarrow nC_{v,m}\Delta T=nC_{p,m}\Delta T+(-P\Delta V)\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="101">
+                    <mxGeometry x="9" y="88" width="461" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="104" value="\[\frac{V_1}{V_2}=\frac{T_1}{T_2}\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="101">
+                    <mxGeometry x="9" y="147" width="461" height="53" as="geometry"/>
+                </mxCell>
+                <mxCell id="105" value="Isothermal Process" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" vertex="1" parent="1">
+                    <mxGeometry x="32.5" y="690" width="580" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="106" value="\[\Delta T=0 \Rightarrow \Delta U=0 \Rightarrow Q=-W\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="105">
+                    <mxGeometry x="9" y="30" width="561" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="107" value="\[P_1V_1=P_2V_2\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="105">
+                    <mxGeometry x="9" y="88" width="561" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="108" value="\[W=\int_{V_1}^{V_2}-PdV=-\int_{V_1}^{V_2}\frac{nRT}{V}dV=-nRT\ln\frac{V_2}{V_1}=-PV\ln\frac{V_2}{V_1}\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="105">
+                    <mxGeometry x="9" y="147" width="561" height="53" as="geometry"/>
+                </mxCell>
+                <mxCell id="109" value="Adiabatic Process" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" vertex="1" parent="1">
+                    <mxGeometry x="102.5" y="925" width="510" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="110" value="\[\Delta Q=0 \Rightarrow \Delta U=W\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="109">
+                    <mxGeometry x="9" y="30" width="491" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="111" value="\[TV^{\gamma -1}=constant \Rightarrow PV^\gamma=constant\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="109">
+                    <mxGeometry x="9" y="88" width="491" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="112" value="\[W=\int_{V_1}^{V_2}-PdV=-PV^\gamma\int_{V_1}^{V_2}V^{-\gamma}dV=-\frac{P_2V_2-P_1V_1}{1-\gamma}\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="109">
+                    <mxGeometry x="9" y="147" width="491" height="53" as="geometry"/>
+                </mxCell>
+                <mxCell id="113" value="Isothermal vs Adiabatic" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" vertex="1" parent="1">
+                    <mxGeometry x="198" y="1160" width="450" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="114" value="\[\left|{\frac{dP}{dV}}\right|_{adia}&amp;gt;\left|{\frac{dP}{dV}}\right|_{iso}\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="113">
+                    <mxGeometry x="10" y="130" width="430" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="117" value="Isothermal" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" vertex="1" parent="113">
+                    <mxGeometry x="10" y="30" width="210" height="96" as="geometry"/>
+                </mxCell>
+                <mxCell id="118" value="\[\frac{dP}{dV}=-\frac{P}{V}\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="117">
+                    <mxGeometry x="9" y="30" width="191" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="121" value="Adiabatic" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" vertex="1" parent="113">
+                    <mxGeometry x="230" y="30" width="210" height="96" as="geometry"/>
+                </mxCell>
+                <mxCell id="122" value="\[\frac{dP}{dV}=-\gamma\frac{P}{V}\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="121">
+                    <mxGeometry x="9" y="30" width="191" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="123" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="10" target="113">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="619" y="992.5" as="targetPoint"/>
+                        <mxPoint x="810" y="950" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="37" value="Definition" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="1460" y="590" width="849" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="In a closed system, the total amount of energy of all kinds is constant." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="37" vertex="1">
+                    <mxGeometry x="9" y="30" width="831" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="\[\Delta U=Q+W\quad(\Delta U=\mathrm{change\ in\ internal\ energy},\ Q=\mathrm{heat\ supplied\ to\ system},\ W=\mathrm{work\ done\ on\ gas})\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="37" vertex="1">
+                    <mxGeometry x="9" y="90" width="831" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="161" value="Third Law of Thermodynamics" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+                    <mxGeometry x="1082" y="1000" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="164" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6" target="161">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1280" y="1031" as="sourcePoint"/>
+                        <mxPoint x="1280" y="960" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="165" value="Definition" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#18B4ED;strokeColor=#18B4ED;" vertex="1" parent="1">
+                    <mxGeometry x="1000.5" y="1140" width="309.5" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="162" value="The entropy of a system approaches a constant value as its temperature approaches absolute zero." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="165">
+                    <mxGeometry x="10" y="30" width="290" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="169" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#1699d3;" edge="1" parent="1" source="161" target="165">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1160" y="1069" as="sourcePoint"/>
+                        <mxPoint x="1160" y="1135" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
