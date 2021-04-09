@@ -1,6 +1,6 @@
 <mxfile>
     <diagram id="y0169RmewVjI8FdbrE21" name="Page-1">
-        <mxGraphModel dx="3440" dy="2306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+        <mxGraphModel dx="830" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -60,13 +60,13 @@
                         <mxPoint x="1518.843971631206" y="786" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="41" value="Work Done By Gas" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
+                <mxCell id="41" value="Work Done On Gas" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="1710" y="790" width="220" height="110" as="geometry"/>
                 </mxCell>
                 <mxCell id="42" value="\[W=\int_{V_1}^{V_2}-PdV\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="41" vertex="1">
                     <mxGeometry x="9" y="30" width="201" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="56" value="Isometric (Isochoric) Process" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" parent="1" vertex="1">
+                <mxCell id="56" value="Isometrics (Isochoric) Process" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" parent="1" vertex="1">
                     <mxGeometry x="329" y="200" width="319" height="210" as="geometry"/>
                 </mxCell>
                 <mxCell id="57" value="\[\Delta V=0 \Rightarrow W=0\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="56" vertex="1">
