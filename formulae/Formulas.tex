@@ -289,4 +289,33 @@ Adiabatic:
 \[\frac{dP}{dV}=-\gamma\frac{P}{V}\]
 \[\left|{\frac{dP}{dV}}\right|_{adia}>\left|{\frac{dP}{dV}}\right|_{iso}\]
 
+\section{Electrostatics}
+\subsubsection*{Coulomb's Law}
+\[\vec{F}_{1,2}=k\frac{q_1q_2}{r^2}\hat{r}_{1,2},\quad k=\frac{1}{4\pi\epsilon_0}\approx9\times10^9mF^{-1}\]
+
+\subsubsection*{Electric Field Intensity}
+\[\vec{E}=\frac{kQ}{r^2}\hat{r},\quad k=\frac{1}{4\pi\epsilon_0}\approx9\times10^9mF^{-1}\]
+
+\subsubsection*{Electric Flux}
+\[\phi=\oint_S\vec{E}\cdot\vec{dA}=\frac{\sum Q_{enc}}{\epsilon_0}\]
+
+\subsubsection*{Electrostatic Potential Energy}
+\[W_{ext}=\int_\infty^R\vec{F}_{ext}\cdot\vec{dr}=\int_R^\infty\vec{F}_{el}\cdot\vec{dr}=\frac{q_1q_2}{4\pi\epsilon_0}\int_R^\infty\frac{dr}{R^2}=\frac{q_1q_2}{4\pi\epsilon_0R}\]
+
+\subsubsection*{Electric Potential}
+Work done to bring unit charge from infinity to distance R from charge
+\[V=\int_R^\infty\frac{\vec{F}_{el}}{q}\cdot\vec{dr}=\frac{Q}{4\pi\epsilon_0R}\]
+\[W_{ext}=qV \Rightarrow W_{el}=-qV\]
+
+\subsubsection*{Potential Difference}
+\[V_A-V_B=\int_A^\infty\vec{E}\cdot\vec{dr}-\int_B^\infty\vec{E}\cdot\vec{dr}=\int_A^B\vec{E}\cdot\vec{dr}=\int_A^B\vec{E}\cdot\vec{d\ell}\quad(\mathrm{Electric\ force\ is\ conservative\ force})\]
+Change in potential energy:
+\[q(V_A-V_B)=K_B-K_A\]
+
+\subsubsection*{Potential Gradient}
+\[\vec{E}=\frac{Q}{4\pi\epsilon_0r^2}\hat{r},\quad V=\frac{Q}{4\pi\epsilon_0r}\]
+\[\frac{dV}{dr}\hat{r}=-\frac{Q}{4\pi\epsilon_0r^2}\hat{r}\quad\Rightarrow\quad\vec{E}=-\frac{dV}{dr}\hat{r}\]
+\[\left|E_x\right|=\left|{\frac{\Delta V}{\Delta x}}\right|_{yz},\quad\left|E_y\right|=\left|{\frac{\Delta V}{\Delta y}}\right|_{xz},\quad\left|E_z\right|=\left|{\frac{\Delta V}{\Delta z}}\right|_{xy}\]
+\[\Rightarrow\vec{E}=-(\frac{\partial V}{\partial x}\hat{x}+\frac{\partial V}{\partial y}\hat{y}+\frac{\partial V}{\partial z}\hat{z})=-grad\ V\]
+
 \end{document}
