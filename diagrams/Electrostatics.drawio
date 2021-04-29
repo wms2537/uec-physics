@@ -1,6 +1,6 @@
 <mxfile>
     <diagram id="nP-OY_wl-n511qJIP8V6" name="Page-1">
-        <mxGraphModel dx="1204" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+        <mxGraphModel dx="1204" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -21,7 +21,7 @@
                         <mxPoint x="763.6412213740459" y="746" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="7" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9" target="32">
+                <mxCell id="7" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9" target="32">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="753" y="845" as="targetPoint"/>
                     </mxGeometry>
@@ -107,7 +107,7 @@
                     <mxGeometry x="9" y="30" width="371" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="32" value="Electric Flux" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" vertex="1" parent="1">
-                    <mxGeometry x="320" y="1150" width="820" height="460" as="geometry"/>
+                    <mxGeometry x="64.5" y="1150" width="820" height="460" as="geometry"/>
                 </mxCell>
                 <mxCell id="33" value="First of the four equations of Maxwell" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="32">
                     <mxGeometry x="9" y="30" width="411" height="50" as="geometry"/>
@@ -139,7 +139,7 @@
                 <mxCell id="39" value="\[W_{ext}=\int_\infty^R\vec{F}_{ext}\cdot\vec{dr}=\int_R^\infty\vec{F}_{el}\cdot\vec{dr}=\frac{q_1q_2}{4\pi\epsilon_0}\int_R^\infty\frac{dr}{R^2}=\frac{q_1q_2}{4\pi\epsilon_0R}\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" vertex="1" parent="38">
                     <mxGeometry x="8.5" y="30" width="581.5" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="53" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9" target="30">
+                <mxCell id="53" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9" target="30">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="850.3587786259545" y="823" as="sourcePoint"/>
                         <mxPoint x="773.6412213740459" y="756" as="targetPoint"/>
@@ -206,7 +206,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="93" value="Electric Potential" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#F0A729;strokeColor=#F0A729;" vertex="1" parent="1">
-                    <mxGeometry x="1253" y="100" width="547" height="220" as="geometry"/>
+                    <mxGeometry x="1560" y="90" width="547" height="220" as="geometry"/>
                 </mxCell>
                 <mxCell id="94" value="Work done to bring unit charge from infinity to distance R from charge" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" vertex="1" parent="93">
                     <mxGeometry x="8.5" y="30" width="530" height="60" as="geometry"/>
@@ -214,14 +214,14 @@
                 <mxCell id="95" value="\[V=\int_R^\infty\frac{\vec{F}_{el}}{q}\cdot\vec{dr}=\frac{Q}{4\pi\epsilon_0R}\] \[W_{ext}=qV \Rightarrow W_{el}=-qV\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" vertex="1" parent="93">
                     <mxGeometry x="8.5" y="100" width="530" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="96" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="10" target="93">
+                <mxCell id="96" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="10" target="93">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="1370" y="340" as="targetPoint"/>
                         <mxPoint x="1243.999999999999" y="682.9999999999998" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="97" value="Potential Difference" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#F0A729;strokeColor=#F0A729;" vertex="1" parent="1">
-                    <mxGeometry x="330" y="130" width="839" height="190" as="geometry"/>
+                    <mxGeometry x="94.5" y="140" width="839" height="190" as="geometry"/>
                 </mxCell>
                 <mxCell id="98" value="\[V_A-V_B=\int_A^\infty\vec{E}\cdot\vec{dr}-\int_B^\infty\vec{E}\cdot\vec{dr}=\int_A^B\vec{E}\cdot\vec{dr}=\int_A^B\vec{E}\cdot\vec{d\ell}\quad(\mathrm{Electric\ force\ is\ conservative\ force})\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" vertex="1" parent="97">
                     <mxGeometry x="8.5" y="30" width="821.5" height="60" as="geometry"/>
@@ -244,7 +244,7 @@
                 <mxCell id="104" value="\[\Rightarrow\vec{E}=-(\frac{\partial V}{\partial x}\hat{x}+\frac{\partial V}{\partial y}\hat{y}+\frac{\partial V}{\partial z}\hat{z})=-grad\ V\]" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" vertex="1" parent="100">
                     <mxGeometry x="8.5" y="240" width="781.5" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="107" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="10" target="97">
+                <mxCell id="107" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="10" target="97">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="1536.5" y="330" as="targetPoint"/>
                         <mxPoint x="1205.5" y="683" as="sourcePoint"/>
@@ -254,6 +254,27 @@
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="978.9999999999998" y="330" as="targetPoint"/>
                         <mxPoint x="1128.5" y="683" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="123" value="Equipotential Surfaces" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#F0A729;strokeColor=#F0A729;" vertex="1" parent="1">
+                    <mxGeometry x="970" y="80" width="547" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="124" value="A surface with same electric potential at every point" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" vertex="1" parent="123">
+                    <mxGeometry x="8.5" y="30" width="530" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="125" value="The surface of a conductor is equipotential regardless of its shape" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" vertex="1" parent="123">
+                    <mxGeometry x="8.5" y="80" width="530" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="126" value="At equipotential surfaces, electric field lines are perpendicular to the surface" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" vertex="1" parent="123">
+                    <mxGeometry x="8.5" y="130" width="530" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="127" value="A charge put on the surface at rest will accelerate perpendicular to the surface" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f5af58;" vertex="1" parent="123">
+                    <mxGeometry x="8.5" y="180" width="530" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="128" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="10" target="123">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1570" y="320" as="targetPoint"/>
+                        <mxPoint x="1205.5" y="683" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
             </root>
