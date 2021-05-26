@@ -135,7 +135,7 @@ When in series,
 
 \subsubsection*{Wein's displacement law}
 \[\lambda \propto \frac{1}{T}\quad (\lambda \mathrm{\ is\ peak\ wavelength})\]
-\[\lambda T=k \quad (k\mathrm{is\ Wein's\ constant,\ }2.93\times10^{-3}mK)\]
+\[\lambda T=k \quad (k\ \mathrm{is\ Wein's\ constant,\ }2.93\times10^{-3}mK)\]
 
 \subsubsection*{Stefan's law}
 \[E \propto T^4\quad (E=\frac{Q}{At}\mathrm{,\ energy\ emitted\ per\ second\ per\ unit\ surface})\]
@@ -291,20 +291,20 @@ Adiabatic:
 
 \section{Electrostatics}
 \subsubsection*{Coulomb's Law}
-\[\vec{F}_{1,2}=k\frac{q_1q_2}{r^2}\hat{r}_{1,2},\quad k=\frac{1}{4\pi\epsilon_0}\approx9\times10^9mF^{-1}\]
+\[\vec{F}_{1,2}=k\frac{q_1q_2}{r^2}\hat{r}_{1,2},\quad k=\frac{1}{4\pi\varepsilon_0}\approx9\times10^9mF^{-1}\]
 
 \subsubsection*{Electric Field Intensity}
-\[\vec{E}=\frac{kQ}{r^2}\hat{r},\quad k=\frac{1}{4\pi\epsilon_0}\approx9\times10^9mF^{-1}\]
+\[\vec{E}=\frac{kQ}{r^2}\hat{r},\quad k=\frac{1}{4\pi\varepsilon_0}\approx9\times10^9mF^{-1}\]
 
 \subsubsection*{Electric Flux}
-\[\phi=\oint_S\vec{E}\cdot\vec{dA}=\frac{\sum Q_{enc}}{\epsilon_0}\]
+\[\phi=\oint_S\vec{E}\cdot\vec{dA}=\frac{\sum Q_{enc}}{\varepsilon_0}\]
 
 \subsubsection*{Electrostatic Potential Energy}
-\[W_{ext}=\int_\infty^R\vec{F}_{ext}\cdot\vec{dr}=\int_R^\infty\vec{F}_{el}\cdot\vec{dr}=\frac{q_1q_2}{4\pi\epsilon_0}\int_R^\infty\frac{dr}{R^2}=\frac{q_1q_2}{4\pi\epsilon_0R}\]
+\[W_{ext}=\int_\infty^R\vec{F}_{ext}\cdot\vec{dr}=\int_R^\infty\vec{F}_{el}\cdot\vec{dr}=\frac{q_1q_2}{4\pi\varepsilon_0}\int_R^\infty\frac{dr}{R^2}=\frac{q_1q_2}{4\pi\varepsilon_0R}\]
 
 \subsubsection*{Electric Potential}
 Work done to bring unit charge from infinity to distance R from charge
-\[V=\int_R^\infty\frac{\vec{F}_{el}}{q}\cdot\vec{dr}=\frac{Q}{4\pi\epsilon_0R}\]
+\[V=\int_R^\infty\frac{\vec{F}_{el}}{q}\cdot\vec{dr}=\frac{Q}{4\pi\varepsilon_0R}\]
 \[W_{ext}=qV \Rightarrow W_{el}=-qV\]
 
 \subsubsection*{Potential Difference}
@@ -313,9 +313,49 @@ Change in potential energy:
 \[q(V_A-V_B)=K_B-K_A\]
 
 \subsubsection*{Potential Gradient}
-\[\vec{E}=\frac{Q}{4\pi\epsilon_0r^2}\hat{r},\quad V=\frac{Q}{4\pi\epsilon_0r}\]
-\[\frac{dV}{dr}\hat{r}=-\frac{Q}{4\pi\epsilon_0r^2}\hat{r}\quad\Rightarrow\quad\vec{E}=-\frac{dV}{dr}\hat{r}\]
+\[\vec{E}=\frac{Q}{4\pi\varepsilon_0r^2}\hat{r},\quad V=\frac{Q}{4\pi\varepsilon_0r}\]
+\[\frac{dV}{dr}\hat{r}=-\frac{Q}{4\pi\varepsilon_0r^2}\hat{r}\quad\Rightarrow\quad\vec{E}=-\frac{dV}{dr}\hat{r}\]
 \[\left|E_x\right|=\left|{\frac{\Delta V}{\Delta x}}\right|_{yz},\quad\left|E_y\right|=\left|{\frac{\Delta V}{\Delta y}}\right|_{xz},\quad\left|E_z\right|=\left|{\frac{\Delta V}{\Delta z}}\right|_{xy}\]
 \[\Rightarrow\vec{E}=-(\frac{\partial V}{\partial x}\hat{x}+\frac{\partial V}{\partial y}\hat{y}+\frac{\partial V}{\partial z}\hat{z})=-grad\ V\]
+
+\section{Current Electricity}
+\subsubsection*{Drift Velocity of Electrons}
+\[I=nev_dA\]
+\[v_d=a\tau=\frac{eE}{m_e}\tau\]
+\[I=\frac{e^2n\tau}{m_e}AE=\sigma AE=\frac{\sigma A}{\ell}V\]
+
+\subsubsection*{Ohm's Law}
+\[I=\frac{\sigma A}{\ell}V \Rightarrow V=I\frac{\ell}{\sigma A}=I\frac{\rho \ell}{A}=IR\]
+
+\subsubsection*{Electric Power}
+\[P=VI\]
+
+\subsubsection*{Electromotive Force (e.m.f.)}
+\[\varepsilon=\frac{E}{q}\quad (\mathrm{E\ is\ work\ done\ by\ non-electric\ field\ force})\]
+Cells in series:
+\[\varepsilon_{total}=\sum\varepsilon\]
+Cells in parallel:
+\[\varepsilon_{total}=\varepsilon_1=\varepsilon_2=...=\varepsilon_n\]
+
+\subsubsection*{Internal Resistance}
+\[\varepsilon=V+Ir=I(R+r)\]
+\[V=\frac{\varepsilon}{R+r}R\]
+\[P=\left(\frac{\varepsilon}{R+r}\right)^2R\quad when\ \frac{dP}{dR}=0\Rightarrow R=r\]
+
+\subsubsection*{Resistors in Series}
+\[R_{total}=\sum R\]
+
+\subsubsection*{Resistors in Parallel}
+\[R_{total}^{-1}=(\sum R^{-1})^{-1}\]
+
+\subsubsection*{Potential Divider}
+\[V_1=\frac{R_1}{R_1+R_2}V=\frac{R_1}{R_1+R_2+r}\varepsilon\]
+
+\subsection*{Kirchoff's Laws}
+\subsubsection*{First Law - Junction Theorem}
+\[\sum I_{in}=\sum I_{out}\]
+
+\subsubsection*{Second Law - Loop Theorem}
+\[\oint E\cdot d\ell=0\Rightarrow \sum IR = \sum \varepsilon\]
 
 \end{document}

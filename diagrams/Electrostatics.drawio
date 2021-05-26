@@ -157,7 +157,7 @@
                 <mxCell id="89" value="Van de Graaff Generator" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="54">
                     <mxGeometry x="9" y="130" width="331" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="58" value="Consevation of Charge" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" vertex="1" parent="1">
+                <mxCell id="58" value="Conservation of Charge" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" vertex="1" parent="1">
                     <mxGeometry x="1669.99" y="1380" width="380" height="90" as="geometry"/>
                 </mxCell>
                 <mxCell id="76" value="In a closed system, \(\sum Q=\) constant" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="58">
