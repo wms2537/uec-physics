@@ -1,0 +1,167 @@
+<mxfile>
+    <diagram id="nP-OY_wl-n511qJIP8V6" name="Page-1">
+        <mxGraphModel dx="977" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="5" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1157.0000000000005" y="737.0000000000002" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="5" target="12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="5" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Electromagnetism" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="1082" y="810" width="150" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9" target="25" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="763.6412213740459" y="746" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="Electromagnetic Induction" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="802" y="815" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Magnetic Field" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="1382" y="815" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="12" target="22" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1590" y="876.0333333333333" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="12" target="20" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1590" y="806.3666666666668" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="12" target="17" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1518.843971631206" y="736" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="Electromagnet" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="1603" y="440" width="300.26" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Straight conductor" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="17" vertex="1">
+                    <mxGeometry x="9" y="30" width="281" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Narrow coil" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="17" vertex="1">
+                    <mxGeometry x="9" y="80" width="281" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="129" value="Solenoid" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="17">
+                    <mxGeometry x="9.629999999999882" y="130" width="281" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Magnetic Field Strength" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="1630" y="630" width="649.76" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="A vector, S.I. unit: Tesla (T)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="20" vertex="1">
+                    <mxGeometry x="9" y="30" width="311" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="130" value="\(B=\frac{F_m}{I\ell}\)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="20">
+                    <mxGeometry x="9" y="80" width="311" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="132" value="Straight Conductor" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" vertex="1" parent="20">
+                    <mxGeometry x="10.000000000000119" y="130" width="310" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="133" value="\(B=\frac{\mu_0 I}{2\pi r}\)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="132">
+                    <mxGeometry x="9" y="30" width="291" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="136" value="Solenoid" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" vertex="1" parent="20">
+                    <mxGeometry x="327.7600000000001" y="130" width="310" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="137" value="\(B=\mu_0 nI\)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="136">
+                    <mxGeometry x="9" y="30" width="291" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="134" value="Narrow coil" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" vertex="1" parent="20">
+                    <mxGeometry x="327.76" y="30" width="310" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="135" value="\(B=\frac{\mu_0 NI}{2r}\)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="134">
+                    <mxGeometry x="9" y="30" width="291" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Magnetic Forces" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="1658.5" y="875" width="333" height="467" as="geometry"/>
+                </mxCell>
+                <mxCell id="138" value="Ampere Force" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" vertex="1" parent="22">
+                    <mxGeometry x="13" y="33" width="310" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="139" value="\(F_m=BI\ell sin\theta\)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="138">
+                    <mxGeometry x="9" y="30" width="291" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="142" value="Direction: \(I \times B\)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="138">
+                    <mxGeometry x="9" y="87" width="291" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Faraday's Law" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" parent="1" vertex="1">
+                    <mxGeometry x="209" y="710" width="460" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Current is induces when a conductor meets a changing magnetic flux" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="25" vertex="1">
+                    <mxGeometry x="9" y="30" width="441" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="\(I_i=\frac{\varepsilon_i}{R}\)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="25" vertex="1">
+                    <mxGeometry x="9" y="90" width="441" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Lenz's law" style="swimlane;gradientColor=none;startSize=23;fontColor=#000000;fillColor=#DE7A73;strokeColor=#DE7A73;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="880" width="389" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Direction of induced emf is opposed to the change causing it" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" parent="30" vertex="1">
+                    <mxGeometry x="9" y="30" width="371" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="147" value="Direction of induced current opposes the change producing it" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;fillColor=#f08e81;" vertex="1" parent="30">
+                    <mxGeometry x="9" y="100" width="371" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9" target="30" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="850.3587786259545" y="823" as="sourcePoint"/>
+                        <mxPoint x="773.6412213740459" y="756" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="54" value="Applications" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="1650" y="1360" width="350" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="Mass Spectrometer" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="54" vertex="1">
+                    <mxGeometry x="9" y="30" width="331" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="Cyclotron" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="54" vertex="1">
+                    <mxGeometry x="9" y="80.5" width="331" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="Magnetic flux" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="1620" y="1510" width="380" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="\(\phi=\hat{B}\cdot\hat{A}\)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" parent="58" vertex="1">
+                    <mxGeometry x="10" y="30" width="360" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="12" target="58" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1425" y="980" as="targetPoint"/>
+                        <mxPoint x="1456.248" y="887" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="78" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="12" target="54" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1920" y="942.5" as="targetPoint"/>
+                        <mxPoint x="1544" y="871" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="140" value="Lorentz Force" style="swimlane;gradientColor=none;strokeColor=#61C6CE;startSize=23;fillColor=#00BFBF;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="1670" y="1070" width="310" height="264" as="geometry"/>
+                </mxCell>
+                <mxCell id="141" value="\(F_m=q(\hat{v}\times\hat{B})=Bqv sin\theta\)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="140">
+                    <mxGeometry x="9" y="30" width="291" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="144" value="\(r=\frac{mv}{Bq}\)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="140">
+                    <mxGeometry x="9.5" y="82" width="291" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="145" value="\(T=\frac{2\pi m}{Bq}\) is independent of v" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="140">
+                    <mxGeometry x="9.5" y="144" width="291" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="146" value="For helix: \(R=\frac{mvsin\theta}{Bq}\)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="140">
+                    <mxGeometry x="9.5" y="204" width="291" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
