@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1622019824 "/home/soh/physics_mindmaps/formulae/Formulas.tex" "/home/soh/physics_mindmaps/formulae/Formulas.pdf" "Formulas" 1622019825
+["pdflatex"] 1625671247 "/home/soh/physics_mindmaps/formulae/Formulas.tex" "/home/soh/physics_mindmaps/formulae/Formulas.pdf" "Formulas" 1625671247
   "/etc/texmf/web2c/texmf.cnf" 1612711199 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/soh/physics_mindmaps/formulae/Formulas.aux" 1622019825 613 afa415895dfb9b70af576a4f9d5c8c9f ""
-  "/home/soh/physics_mindmaps/formulae/Formulas.tex" 1622019824 15032 a0293989b90141d0e394c23eefbc0915 ""
+  "/home/soh/physics_mindmaps/formulae/Formulas.aux" 1625671247 851 d7c822c23491d51d9fff3688441a26a2 ""
+  "/home/soh/physics_mindmaps/formulae/Formulas.tex" 1625671246 17263 71d5a124aafed899c69741f3574afea9 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1480098698 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -194,12 +194,12 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1612711242 2700761 ac0584cc9514ab21918550a6948c4ee2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1612711273 4133160 3c3f53257674b522e4a054bb98d5120b ""
-  "Formulas.aux" 1622019825 613 afa415895dfb9b70af576a4f9d5c8c9f ""
-  "Formulas.tex" 1622019824 15032 a0293989b90141d0e394c23eefbc0915 ""
+  "Formulas.aux" 1625671247 851 d7c822c23491d51d9fff3688441a26a2 ""
+  "Formulas.tex" 1625671246 17263 71d5a124aafed899c69741f3574afea9 ""
   (generated)
   "Formulas.auxlock"
-  "Formulas.aux"
-  "/home/soh/physics_mindmaps/formulae/Formulas.log"
-  "Formulas.log"
   "Formulas.pdf"
+  "Formulas.log"
+  "Formulas.aux"
   "/home/soh/physics_mindmaps/formulae/Formulas.pdf"
+  "/home/soh/physics_mindmaps/formulae/Formulas.log"
