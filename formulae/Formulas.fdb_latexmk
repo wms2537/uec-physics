@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1628265887 "/home/soh/physics_mindmaps/formulae/Formulas.tex" "/home/soh/physics_mindmaps/formulae/Formulas.pdf" "Formulas" 1628265887
+["pdflatex"] 1635083771 "/home/soh/physics_mindmaps/formulae/Formulas.tex" "/home/soh/physics_mindmaps/formulae/Formulas.pdf" "Formulas" 1635083771
   "/etc/texmf/web2c/texmf.cnf" 1612711199 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/soh/physics_mindmaps/formulae/Formulas.aux" 1628265887 1265 dc3a8877416e58d344587cd700fbd648 ""
-  "/home/soh/physics_mindmaps/formulae/Formulas.tex" 1628265886 20674 8bd8962b2d95a61f75080a75fa2d879a ""
+  "/home/soh/physics_mindmaps/formulae/Formulas.aux" 1635083771 1400 1a21969270ec2439705f443e384dee5f ""
+  "/home/soh/physics_mindmaps/formulae/Formulas.tex" 1635083770 24946 583a6e439e56d6ebb4ac6707ae091a46 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1480098698 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -195,12 +195,12 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1612711242 2700761 ac0584cc9514ab21918550a6948c4ee2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1612711273 4133160 3c3f53257674b522e4a054bb98d5120b ""
-  "Formulas.aux" 1628265887 1265 dc3a8877416e58d344587cd700fbd648 ""
-  "Formulas.tex" 1628265886 20674 8bd8962b2d95a61f75080a75fa2d879a ""
+  "Formulas.aux" 1635083771 1400 1a21969270ec2439705f443e384dee5f ""
+  "Formulas.tex" 1635083770 24946 583a6e439e56d6ebb4ac6707ae091a46 ""
   (generated)
-  "Formulas.pdf"
-  "/home/soh/physics_mindmaps/formulae/Formulas.log"
   "/home/soh/physics_mindmaps/formulae/Formulas.pdf"
-  "Formulas.aux"
-  "Formulas.auxlock"
+  "/home/soh/physics_mindmaps/formulae/Formulas.log"
   "Formulas.log"
+  "Formulas.pdf"
+  "Formulas.auxlock"
+  "Formulas.aux"

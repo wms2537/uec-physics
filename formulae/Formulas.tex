@@ -193,7 +193,7 @@ Compound microscope: convex lens, \(f_o<f_e\), first image is magnified inverted
 \[\mathrm{Abnormal\ adjustment:}\ v_e=\infty,\ M=\frac{\beta}{\alpha}=m_o\times m_e=(\frac{v_o}{f_o}-1)(\frac{D}{f_e})\]
 
 Astromomical telescope (Keplerian telescope): convex lenses with
-\[f_o<f_e,\ f_o+f_e=d,\ u_o=\infty,\ v_o=f_o,\ u_e=f_e\] first image is diminished, inverted real, second is magnified inverted
+\[f_o>f_e,\ f_o+f_e=d,\ u_o=\infty,\ v_o=f_o,\ u_e=f_e\] first image is diminished, inverted real, second is magnified inverted
 \[\mathrm{Normal\ adjustment:}\ v_e=\infty,\ M=\frac{\beta}{\alpha}=m_o\times m_e=\frac{f_o}{f_e}\]
 \[\mathrm{Abnormal\ adjustment:}\ v_e=D,\ M=\frac{\beta}{\alpha}=m_o\times m_e=(\frac{D+1}{D})(\frac{f_o}{f_e})\]
 
@@ -404,7 +404,7 @@ For sinosodial A.C.,
 \subsubsection*{Retangular A.C.}
 \[I_{r.m.s.}=\sqrt{\frac{I_1^2\times t_1+I_2^2\times t_2+...+I_n^2\times t_n}{t_1+t_2+...+t_n}}\]
 
-\subsubsection{Impedance}
+\subsubsection*{Impedance}
 \[Z=R+jX=|Z|e^{jarg(Z)}\]
 
 \subsubsection*{A.C. with Resistor}
@@ -440,7 +440,7 @@ For sinosodial A.C.,
 \section{Electromagnetism}
 \subsubsection*{Magnetic Field Strength}
 Biot \& Savart:
-\[\vec{dB}=\frac{\mu_0 I}{4\pi r}(d\ell \times \hat{r})\]
+\[\vec{dB}=\frac{\mu_0 I}{4\pi r^2}(d\ell \times \hat{r})\]
 Straight Conductor:
 \[B=\frac{\mu_0 I}{2\pi r}\]
 Narrow coil:
@@ -549,5 +549,108 @@ Transformer
 \[f_{min}=\frac{E_n-E_{n-1}}{h}\]
 \[\lambda_{max}=\frac{hc}{E_n-E_{n-1}}\]
 \[\lambda_{min}=\frac{hc}{E_n-E_1}\]
+
+\section{Waves}
+\subsubsection*{Wave Equations}
+Progressive Wave:\[y=a\sin(\omega t-kx)=a\sin(\frac{2\pi t}{T}-\frac{2\pi}{\lambda}x)\]
+Standing Wave:\[y=a\cos kx\sin\omega t\]\[kx=n\pi\rightarrow antinodes\quad kx=(n+\frac{1}{2})\pi\rightarrow nodes\]
+
+\subsubsection*{Velocity}
+\[v_\theta=v_0+0.6\theta\quad when\ P=1atm,v_0=331.1ms^{-1}\]
+Solid: \[v=\sqrt{\frac{E}{\rho}}\]
+Liquid: \[v=\sqrt{\frac{B}{\rho}}\]
+Gas: \[v=\sqrt{\frac{\gamma P}{\rho}}\]
+
+\subsubsection*{Resonance Tube Experiment}
+\[\ell=\frac{v}{4}\times\frac{1}{f}-c\]
+\begin{empheq}[left=\empheqlbrace]{align*}
+    \ell+c=\frac{1}{4}\lambda\\
+    \ell_1+c=\frac{3}{4}\lambda
+\end{empheq}
+
+\subsubsection*{Pipes}
+\[f\propto\frac{1}{\ell}\]
+Closed Pipes:\[f_0=\frac{v}{\lambda_0}=\frac{v}{4\ell}\]\[f_1=\frac{v}{\lambda_1}=\frac{3v}{4\ell}=3f_0\]\[f_n=(2n+1)f_0\]
+End correction: \[f_0=\frac{v}{\lambda_0}=\frac{v}{4(\ell+c)}\]
+Open Pipes: \[f_0=\frac{v}{\lambda_0}=\frac{v}{2\ell}\]\[f_1=\frac{v}{\lambda_1}=\frac{v}{\ell}=2f_0\]\[f_n=(n+1)f_0\]
+End correction: \[f_0=\frac{v}{\lambda_0}=\frac{v}{2(\ell+c)}\]
+
+\subsubsection*{Tubes}
+Plucked at middle: \[f_0=\frac{v}{\lambda_0}=\frac{1}{2\ell}\sqrt{\frac{T}{\mu}}\]\[f_1=\frac{v}{\lambda_1}=\frac{3}{2\ell}\sqrt{\frac{T}{\mu}}=3f_0\]\[f_n=(2n+1)f_0\]
+Plucked at other places: \[f_0=\frac{v}{\lambda_0}=\frac{1}{2\ell}\sqrt{\frac{T}{\mu}}\]\[f_1=\frac{v}{\lambda_1}=\frac{2}{2\ell}\sqrt{\frac{T}{\mu}}=3f_0\]\[f_n=(n+1)f_0\]
+
+\subsubsection*{Doppler Effect}
+\[f'=\frac{v'}{\lambda'}=\frac{v+u_o}{v+u_s}f\]
+
+\section{Light Waves}
+\subsubsection*{Inteference}
+Constructive:\[o.p.d.=m\lambda\quad m=0,1,2,3,...\]\[\phi=2m\pi\quad m=0,1,2,3,...\]
+Destructive: \[o.p.d.=(m\pm\frac{1}{2})\lambda\quad m=0,1,2,3,...\]\[\phi=(2m+1)\pi\quad m=0,1,2,3,...\]
+
+\subsubsection*{Young's double-slit interference}
+\[\theta\approx 0\]\[\sin\theta_m\approx\tan\theta_m\]\[\tan\theta_m=\frac{x}{D}\]\[y=\frac{D\lambda}{a}\]
+Bright fringes: \[a\sin\theta_m=m\lambda\quad m=0,1,2,3,...\]
+Dark fringes: \[a\sin\theta_m=(m\pm\frac{1}{2})\lambda\quad m=0,1,2,3,...\]
+
+\subsubsection*{Newton's Rings}
+\[\frac{r^2}{R}=(m\pm\frac{1}{2})\lambda\quad m=0,1,2,3,...\quad(bright)\]\[\frac{r^2}{R}=m\lambda\quad m=0,1,2,3,...\quad(dark)\]
+
+\subsubsection*{Thin wedge film interference}
+Case 1:\[(n_2>n_1\ and\ n_2>n_3)\ or\ (n_2<n_1\ and\ n_2<n_3)\]\[2n_2t=(m+\frac{1}{2})\lambda\quad m=0,1,2,3,...\quad (bright)\]\[2n_2t=m\lambda\quad m=0,1,2,3,...\quad (dark)\]
+Case 2:\[(n_1<n_2<n_3)\ or\ (n_1>n_2>n_3)\]\[2n_2t=m\lambda\quad m=0,1,2,3,...\quad (bright)\]\[2n_2t=(m+\frac{1}{2})\lambda\quad m=0,1,2,3,...\quad (dark)\]
+
+\subsubsection*{Single Slit Diffraction}
+\[a\sin\theta_0=0\quad(Central\ maximum)\]\[a\sin\theta_m=(m+\frac{1}{2})\lambda\quad m=1,2,3,...(maximum)\]\[a\sin\theta_m=m\lambda\quad m=1,2,3,...(minimum)\]
+
+\subsubsection*{Diffraction grating}
+Grating constant \(d=\frac{1}{N}=a+b\)
+\[d\sin\theta_m=m\lambda\quad m=0,1,2,3,...(maximum)\]\[d\sin\theta_m=(m+\frac{1}{2})\lambda\quad m=1,2,3,...(minimum)\]
+\[\sin\theta_m=\frac{m\lambda}{d}\le1\]\[m\le\frac{d}{\lambda}\]
+
+\section{Relativity}
+\subsection*{Special Relativity}
+\[c={1 \over \sqrt{\mu_0\varepsilon_0}}\]
+
+\subsubsection*{Lorentz Factor}
+\[\gamma = \cfrac{1}{\sqrt{1-\cfrac{v^2}{c^2}}}\]
+
+\subsubsection*{Speed Parameter}
+\[\beta = \frac{v}{c}\]
+
+\subsubsection*{Lorentz Transformation}
+\[x'=\gamma(x-vt)\]
+\[t'=\gamma \left(t-\left(v \over c^2\right)x\right)\]
+\[v'=\cfrac{v-u}{1-\cfrac{uv}{c^2}}\]
+
+\subsubsection*{Einstein Mass-Energy Relation}
+\[E=mc^2\]
+\[E^2=m_0^2c^4+p^2c^2\quad(\mathrm{Energy-Momentum\ Relation})\]
+\[v=\frac{cp}{\sqrt{m_0^2c^2+p^2}}\]
+\[m=\gamma m_0\]
+For photon, \(m_0=0\implies E=pc\)
+\subsubsection*{Time Dilation}
+\[\Delta t=\gamma \Delta t_0\]
+
+\subsubsection*{Length Contraction}
+\[L={1 \over \gamma}L_0\]
+
+\subsubsection*{Linear Momentum}
+\[p=\gamma m_0v\]
+
+\subsubsection*{Total Energy}
+\[E=\gamma m_0c^2\]
+
+\subsubsection*{Kinetic Energy}
+\[K=(\gamma -1) m_0c^2\]
+
+\subsection*{General Relativity}
+\subsubsection*{Deflection Angle}
+\[\alpha=\frac{4GM}{rc^2}\]
+
+\subsubsection*{Schwarzschild Radius}
+\[r_s=\frac{2GM}{c^2}\]
+
+\subsubsection*{Time Dilation due to Gravitational Field}
+\[\Delta t=\Delta t_0 \sqrt{1-\frac{2GM}{rc^2}}=\Delta t_0 \sqrt{1-\frac{r_s}{r}}\]
 
 \end{document}
